@@ -19,6 +19,7 @@ html{
     background-image: url(Images/mypic.jpg);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 
 .container{
